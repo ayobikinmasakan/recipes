@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "aldirecipes",
+    "site": "recipesfuture",
     "public": "public",
     "ignore": [
       "firebase.json",

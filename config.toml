@@ -1,6 +1,6 @@
-baseURL = "https://aldirecipes.web.app/"
+baseURL = "https://recipesfuture.netlify.app/"
 languageCode = "en-us"
-title = "aldirecipes"
+title = "Recipes Future"
 theme = "big"
 
 [taxonomies]
@@ -41,7 +41,7 @@ theme = "big"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://aldirecipes.web.app/"
+    homepage = "https://recipesfuture.netlify.app/"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 

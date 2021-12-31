@@ -1,1 +1,5 @@
-# recipes
+- 👋 Hi, I’m best recipes
+- 👀 I’m interested in recipes
+- 🌱 I’m currently learning united state
+- 💞️ I’m looking to collaborate on recipes company
+- 📫 How to reach me ok!
